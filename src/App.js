@@ -1,4 +1,5 @@
-// https://www.youtube.com/watch?v=0W6i5LYKCSI
+// https://www.youtube.com/watch?v=0W6i5LYKCSI - redux
+// https://www.youtube.com/watch?v=JDZRfLGNWdc - thunk
 
 import React from "react";
 import "./App.css";
